@@ -1,3 +1,6 @@
-#This is a simple Hello word program.
+#This is a simple Hello word progr
 
-print("Otto üdvözöllek"!)
+name = input("Give me your name please: ")
+print(f'Hello {name}!')
+
+
